@@ -1,4 +1,6 @@
-# Description
+# Print a Triangle
+
+## Description
 
 Write a program to print the following pattern:
 
@@ -35,3 +37,8 @@ t s e b s i C i s b e s t
   }
   ```
 </details>
+
+<br/>
+## Tags
+
+```basic```
