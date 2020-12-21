@@ -13,25 +13,25 @@ t s e b s i C i s b e s t
 ```
 
 <details>
-  <summary>Answer in C++</summary>
+<summary>Answer in C++</summary>
 
-  ```cpp
-    #include <iostream>
+```cpp
+  #include <iostream>
 
-    using namespace std;
+  using namespace std;
 
-    int main(){
+  int main(){
 
-        cout << "            C";
-        cout << "          i   I";
-        cout << "        s       s";
-        cout << "      b           b";
-        cout << "    e               e";
-        cout << "  s                   s";
-        cout << "t s e b s i C i s b e s t";
+    cout << "            C";
+    cout << "          i   I";
+    cout << "        s       s";
+    cout << "      b           b";
+    cout << "    e               e";
+    cout << "  s                   s";
+    cout << "t s e b s i C i s b e s t";
 
-    }
-  ```
+  }
+```
 
 </details>
 
