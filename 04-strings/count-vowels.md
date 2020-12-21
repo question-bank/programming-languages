@@ -1,17 +1,17 @@
 ## Count Vowels
 
-Write a program to count all the vowels in a given string
+Write a program to count all the vowels in a given string. Please consider lower and upper case.
 
 **Example**:
 
 ```console
 apple
-Vowels: 2
+Total: 2
 ```
 
 ```console
 house
-Vowels: 3
+Total: 3
 ```
 
 <details>
