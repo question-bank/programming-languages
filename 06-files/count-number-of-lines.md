@@ -33,7 +33,7 @@ int main(){
 
     file.open("input.txt", ios::in);
 
-    while( !file.eof()){
+    while (!file.eof()) {
         getline(file, line);
         total++;
     }
