@@ -45,7 +45,7 @@ int main(){
 
 #### Difficulty Level
 
-Intermediate
+Basic
 
 #### Tags
 
