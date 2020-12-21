@@ -24,7 +24,7 @@ You can find questions and answers to several topics such as:
 
 ## Level of Difficulty
 
-In this project we use the following levels of difficulties to classify each question:
+In this project we use the following difficulty levels to classify each question:
 
  - **Beginner**
 
