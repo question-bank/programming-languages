@@ -2,7 +2,7 @@
 
 Write a program to print the following pattern:
 
-```sh
+```console
             C
           i   I
         s       s
