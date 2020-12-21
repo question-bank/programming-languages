@@ -1,6 +1,6 @@
 ## Create struct
 
-Write a program that has a struct used for  storing `age` and `weight` from a user;
+Write a program that has a struct used for  storing `age` and `weight` from a user. Don't need to code the main function.
 
 <details>
 <summary>Answer in C++</summary>
@@ -15,7 +15,7 @@ struct User {
     int age;
 
     float weight;
-}
+};
 
 int main(){
 
