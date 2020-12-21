@@ -8,6 +8,19 @@ Questions addressing C, C++, Java, Python and others
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+## Topics
+
+You can find questions and answers to several topics such as:
+
+1. Introduction
+2. Selection/Conditional Structures
+3. Repetition/Loop Structures
+4. Functions
+5. Strings
+6. Files
+7. Arrays
+8. Structs
+9. Classes
 
 ## Level of Difficulty
 
