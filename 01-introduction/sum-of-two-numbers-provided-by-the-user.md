@@ -6,7 +6,7 @@ Write a program to print on the output the sum of two integer numbers provided b
 
 ```console
 a = 2
-b = 4;
+b = 4
 sum = 6
 ```
 
