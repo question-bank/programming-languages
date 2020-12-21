@@ -1,8 +1,8 @@
 ## Sum of Two Numbers
 
-Write a program to print on the output the sum of two hard coded integer numbers (the numbers are up to you). For example, if you assigned 2 and 3, the output is:
+Write a program to print on the output the sum of two hard coded integer numbers (the numbers are up to you). 
 
-**Output**:
+**Example**:
 
 ```console
 5
