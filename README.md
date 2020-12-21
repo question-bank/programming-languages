@@ -1,4 +1,6 @@
 
+<img src="https://user-images.githubusercontent.com/114015/102800439-dfd43280-4381-11eb-8904-5a4af1075da1.png" width="400px">
+
 ## Level of Difficulty
 
 We use the following levels of difficulties to classify each question:
