@@ -8,7 +8,7 @@ Questions and answers addressing C, C++, Java, Python and others
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-## Topics
+## Contents
 
 You can find questions and answers to several topics such as:
 
