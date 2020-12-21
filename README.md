@@ -12,17 +12,15 @@ Questions and answers addressing C, C++, Java, Python and others
 
 You can find questions and answers to several topics such as:
 
-
-
-1. [Introduction](01-introduction) 
-2. Selection/Conditional Structures
-3. Repetition/Loop Structures
-4. Functions
-5. Strings
-6. Files
-7. Arrays
-8. Structs
-9. Classes
+1. [Introduction](01-introduction)
+2. [Selection/Conditional Structures](02-selection-conditional-structures)
+3. [Repetition/Loop Structures](03-repetition-and-loop-structures)
+4. [Strings](04-strings)
+5. [Functions](05-functions)
+6. [Files](06-files)
+7. [Arrays](07-arrays)
+8. [Structs](08-structs)
+9. [Classes](09-classes)
 
 ## Difficulty Levels
 
@@ -37,7 +35,7 @@ In this project we use the following difficulty levels to classify each question
  - **Advanced**
 
  - **Expert**
- 
+
 ## Questions or Suggestions
 
 Feel free to create <a href="https://github.com/question-bank/programming-languages/discussions">discussions</a> here as you need
