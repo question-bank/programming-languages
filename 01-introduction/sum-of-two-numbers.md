@@ -1,6 +1,6 @@
 ## Sum of two numbers
 
-Write a program to print on the output the sum of two hard coded integer numbers (the numbers are up to you). 
+Write a program to print on the output the sum of two hard coded integer numbers (the numbers are up to you).
 
 **Example**:
 
@@ -18,17 +18,17 @@ using namespace std;
 
 int main(){
 
-  int a;
-  int b;
-  int sum;
+    int a;
+    int b;
+    int sum;
 
-  a = 2;
-  b = 3;
+    a = 2;
+    b = 3;
 
-  sum = a + b;
+    sum = a + b;
 
-  cout << sum << endl;
-    
+    cout << sum << endl;
+
 }
 ```
 

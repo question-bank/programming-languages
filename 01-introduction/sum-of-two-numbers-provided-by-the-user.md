@@ -20,18 +20,18 @@ using namespace std;
 
 int main(){
 
-  int a;
-  int b;
-  int sum;
+    int a;
+    int b;
+    int sum;
 
-  cout << "a = "; 
-  cin >> a;
-  cout << "b = "; 
-  cin >> b;
+    cout << "a = ";
+    cin >> a;
+    cout << "b = ";
+    cin >> b;
 
-  sum = a + b;
+    sum = a + b;
 
-  cout << sum << endl;
+    cout << sum << endl;
 
 }
 ```
