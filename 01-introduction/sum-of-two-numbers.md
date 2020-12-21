@@ -3,6 +3,9 @@
 Write a program to print on the output the sum of two hard coded integer numbers (the numbers are up to you).
 
 **Example**:
+Consider you want to show 2+
+
+**Output**:
 ```sh
 5
 ```
