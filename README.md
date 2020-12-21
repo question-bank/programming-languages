@@ -22,3 +22,15 @@ In this project we use the following levels of difficulties to classify each que
  - **Advanced**
 
  - **Expert**
+ 
+## Questions or Suggestions
+
+Feel free to create <a href="https://github.com/question-bank/programming-languages/discussions">discussions</a> here as you need
+
+## Contribute
+
+Contributions to the this project are very welcome! We can't do this alone! Feel free to fork this project, work on it and then make a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
