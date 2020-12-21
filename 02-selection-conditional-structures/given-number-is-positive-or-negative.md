@@ -10,7 +10,7 @@ Positive
 ```
 
 ```console
-Number: -10
+Number: -10.2
 Negative
 ```
 
