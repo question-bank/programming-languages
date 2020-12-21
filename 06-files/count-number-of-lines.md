@@ -1,6 +1,6 @@
 ## Count number of lines
 
-Write a program to read a file and print on the output the number of lines.
+Write a program to read a file and print on the output the number of lines. As an example, consider:
 
 **File**:
 
@@ -12,7 +12,7 @@ d
 
 **Output**:
 ```console
-Total: 8
+Total: 3
 ```
 
 <details>
