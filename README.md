@@ -4,14 +4,14 @@ Questions addressing C, C++, Java, Python and others
 
 ## Level of Difficulty
 
-We use the following levels of difficulties to classify each question:
+In this project we use the following levels of difficulties to classify each question:
 
- - **Beginner**: No knowledge at all of the topic
+ - **Beginner**
 
- - **Basic**: A very basic knowledge of the topic but no professional usage
+ - **Basic**
 
- - **Intermediate**: A basic knowledge of the topic but no regular professional usage
+ - **Intermediate**
 
- - **Advanced**: A good knowledge of the topic and a regular professional usage
+ - **Advanced**
 
- - **Expert**: A perfect knowledge of the topic and a daily professional usage
+ - **Expert**
