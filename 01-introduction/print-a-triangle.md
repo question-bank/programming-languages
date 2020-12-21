@@ -1,6 +1,6 @@
 ## Print a Triangle
 
-Write a program to print the following pattern:
+Write a program to print on the output the following pattern:
 
 ```console
             C
