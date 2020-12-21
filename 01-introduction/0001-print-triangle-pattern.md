@@ -22,6 +22,14 @@ t s e b s i C i s b e s t
 
   int main(){
 
+      cout << "            C";
+      cout << "          i   I";
+      cout << "        s       s";
+      cout << "      b           b";
+      cout << "    e               e";
+      cout << "  s                   s";
+      cout << "t s e b s i C i s b e s t";
+
   }
   ```
 </details>
