@@ -1,7 +1,5 @@
 # Print a Triangle
 
-## Description
-
 Write a program to print the following pattern:
 
 ```sh
