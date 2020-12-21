@@ -1,6 +1,6 @@
 ## Sum of Two Numbers
 
-Write a program to print the sum of two numbers.
+Write a program to print the sum of two hard coded integer numbers (the numbers are up to you).
 
 <details>
   <summary>Answer in C++</summary>
