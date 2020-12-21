@@ -1,4 +1,4 @@
-# Print a Triangle
+## Print a Triangle
 
 Write a program to print the following pattern:
 
