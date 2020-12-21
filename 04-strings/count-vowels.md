@@ -1,6 +1,6 @@
 ## Count Vowels
 
-Write a program to count all the vowels in a given string. Please consider lower and upper cases.
+Write a program to count all vowels in a given string. Please consider lower and upper cases.
 
 **Example**:
 
