@@ -12,7 +12,9 @@ Questions and answers addressing C, C++, Java, Python and others
 
 You can find questions and answers to several topics such as:
 
-1. Introduction
+
+
+1. [Introduction](01-introduction/README.md) 
 2. Selection/Conditional Structures
 3. Repetition/Loop Structures
 4. Functions
