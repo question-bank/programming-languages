@@ -5,13 +5,13 @@ Write a program to count all the vowels in a given string. Please consider lower
 **Example**:
 
 ```console
-apple
-Total: 2
+Word: apple
+Vowels: 2
 ```
 
 ```console
-house
-Total: 3
+Word: HoUsE
+Vowels: 3
 ```
 
 <details>
@@ -29,6 +29,7 @@ int main(){
     int total = 0;
     string word;
 
+    cout << "Word: ";
     cin >> word;
 
     for (i = 0; i < word.length(); i++){
@@ -50,7 +51,7 @@ int main(){
         }
     }
 
-    cout << "Total: " << total << endl;
+    cout << "Vowels: " << total << endl;
 }
 ```
 
