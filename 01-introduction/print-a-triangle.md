@@ -41,4 +41,4 @@ Beginner
 
 #### Tags
 
-```basic```
+```introduction``` ```pattern```
