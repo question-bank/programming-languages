@@ -10,5 +10,18 @@ Write a program to print the following pattern:
     e               e
   s                   s
 t s e b s i C i s b e s t
-
 ```
+
+<details>
+  <summary>Answer in C++</summary>
+
+  ```c++
+  #include <iostream>
+
+  using namespace std;
+
+  int main(){
+
+  }
+  ```
+</details>
