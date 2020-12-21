@@ -6,7 +6,7 @@ Write a program to print on the output the sum of two hard coded integer numbers
 Consider you want to show 2+
 
 **Output**:
-```sh
+```console
 5
 ```
 
