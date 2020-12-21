@@ -1,6 +1,6 @@
 ## Sum elements
 
-Write a program to read 7 integer numbers and save them in an array. Print on the output the sum of all elements. Use a loop for read the data and another one for calculating the sum.
+Write a program to read 7 integer numbers and save them in an array. Print on the output the sum of all elements. Use a loop for reading the data from the user and another one for calculating the sum.
 
 **Example**:
 
