@@ -22,7 +22,7 @@ You can find questions and answers to several topics such as:
 8. Structs
 9. Classes
 
-## Level of Difficulty
+## Difficulty Levels
 
 In this project we use the following difficulty levels to classify each question:
 
