@@ -1,4 +1,4 @@
-## Create struct
+## Difference public and private
 
 Describe the difference between **private** and **public** class members.
 
