@@ -1,4 +1,4 @@
-## Count Vowels
+## Equal Numbers
 
 Write a program with a function
 
