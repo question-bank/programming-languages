@@ -30,4 +30,4 @@ Basic
 
 #### Tags
 
-`arrays`
+`struct`
