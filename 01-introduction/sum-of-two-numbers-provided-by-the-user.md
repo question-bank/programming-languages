@@ -1,4 +1,4 @@
-## Sum of Two Numbers Provided by the User
+## Sum of two numbers provided by the user
 
 Write a program to print on the output the sum of two integer numbers provided by the user.
 

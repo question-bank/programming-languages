@@ -1,4 +1,4 @@
-## Sum of Two Numbers
+## Sum of two numbers
 
 Write a program to print on the output the sum of two hard coded integer numbers (the numbers are up to you). 
 
