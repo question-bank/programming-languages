@@ -14,7 +14,7 @@ You can find questions and answers to several topics such as:
 
 
 
-1. [Introduction](01-introduction/README.md) 
+1. [Introduction](01-introduction) 
 2. Selection/Conditional Structures
 3. Repetition/Loop Structures
 4. Functions
