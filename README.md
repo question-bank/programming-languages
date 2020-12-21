@@ -14,7 +14,7 @@ You can find questions and answers to several topics such as:
 
 1. [Introduction](01-introduction)
 2. [Selection/Conditional Structures](02-selection-conditional-structures)
-3. [Repetition/Loop Structures](03-repetition-and-loop-structures)
+3. [Repetition/Loop Structures](03-repetition-loop-structures)
 4. [Strings](04-strings)
 5. [Functions](05-functions)
 6. [Files](06-files)
