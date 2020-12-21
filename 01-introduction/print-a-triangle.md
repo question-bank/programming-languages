@@ -36,10 +36,9 @@ t s e b s i C i s b e s t
   ```
 </details>
 
-#### Difficulty Level
 
-Beginner
 
-#### Tags
+| Difficulty Level | Tags        |
+| :--------------: | ----------- |
+| Beginner         | ```basic``` |
 
-```basic```
