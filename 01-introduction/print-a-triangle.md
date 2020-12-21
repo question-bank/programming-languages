@@ -17,7 +17,7 @@ t s e b s i C i s b e s t
   <summary>Answer in C++</summary>
   <br/>
 
-  ```C++
+  ```cpp
   #include <iostream>
 
   using namespace std;
