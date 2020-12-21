@@ -9,28 +9,28 @@ Write a program to print on the output the sum of two hard coded integer numbers
 ```
 
 <details>
-  <summary>Answer in C++</summary>
+<summary>Answer in C++</summary>
 
-  ```cpp
-    #include <iostream>
+```cpp
+#include <iostream>
 
-    using namespace std;
+using namespace std;
 
-    int main(){
+int main(){
 
-        int a;
-        int b;
-        int sum;
+    int a;
+    int b;
+    int sum;
 
-        a = 2;
-        b = 3;
+    a = 2;
+    b = 3;
 
-        sum = a + b;
+    sum = a + b;
 
-        cout << sum << endl;
-        
-    }
-  ```
+    cout << sum << endl;
+    
+}
+```
 
 </details>
 
