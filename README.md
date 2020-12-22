@@ -26,15 +26,15 @@ You can find questions and answers to several topics such as:
 
 In this project we use the following difficulty levels to classify each question:
 
- - **Beginner**
+ - Beginner
 
- - **Basic**
+ - Basic
 
- - **Intermediate**
+ - Intermediate
 
- - **Advanced**
+ - Advanced
 
- - **Expert**
+ - Expert
 
 ## Questions or Suggestions
 
